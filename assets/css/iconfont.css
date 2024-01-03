@@ -1,0 +1,86 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4330411 */
+  src: url('~assets/fonts/iconfont.woff2?t=1699965176743') format('woff2'),
+       url('~assets/fonts/iconfont.woff?t=1699965176743') format('woff'),
+       url('~assets/fonts/iconfont.ttf?t=1699965176743') format('truetype');
+}
+/* 在线链接服务仅供平台体验和调试使用，平台不承诺服务的稳定性，企业客户需下载字体包自行发布使用并做好备份。 */
+@font-face {
+  font-family: "阿里妈妈方圆体 VF Regular";src: url("//at.alicdn.com/wf/webfont/SoGIzPqQH8JW/JNBXqz8F84iX.woff2") format("woff2"),
+url("//at.alicdn.com/wf/webfont/SoGIzPqQH8JW/RX99af9nkdLU.woff") format("woff");
+  font-display: swap;
+}
+.iconfont-very-large{
+  font-family: "iconfont" !important;
+  font-size: 26px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.iconfont-large {
+  font-family: "iconfont" !important;
+  font-size: 17.5px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-SpringFestival-clic:before {
+  content: "\e611";
+}
+
+.icon-shouye:before {
+  content: "\e751";
+}
+
+.icon-zhuce:before {
+  content: "\e62d";
+}
+
+.icon-guanyu:before {
+  content: "\e607";
+}
+
+.icon-liuyan:before {
+  content: "\e650";
+}
+
+.icon-guanyu1:before {
+  content: "\e633";
+}
+
+.icon-fabiaowenzhang:before {
+  content: "\e648";
+}
+
+.icon-charulianjie:before {
+  content: "\ec7f";
+}
+
+.icon-sousuo:before {
+  content: "\e64d";
+}
+
+.icon-github:before {
+  content: "\e6b7";
+}
+
+.icon-zhiwendenglu:before {
+  content: "\e615";
+}
+
+.icon-bzhan:before {
+  content: "\e61e";
+}
+
+.icon-weixin:before {
+  content: "\e682";
+}
